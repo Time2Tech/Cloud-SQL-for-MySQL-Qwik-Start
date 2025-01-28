@@ -1,6 +1,4 @@
-# Cloud SQL for MySQL: Qwik Start || [GSP151](https://www.cloudskillsboost.google/focuses/936?parent=catalog) ||
-
-## Solution [here](https://youtu.be/YuDVbvtuIr0)
+# Cloud SQL for MySQL: Qwik Start 
 
 ### Run the following Commands in CloudShell
 
@@ -20,7 +18,3 @@ sudo chmod +x gsp151.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
